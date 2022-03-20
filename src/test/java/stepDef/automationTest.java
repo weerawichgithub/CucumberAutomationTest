@@ -1,15 +1,11 @@
 package stepDef;
 
-import io.cucumber.datatable.DataTable;
-import io.cucumber.java.DataTableType;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import Driver.Driver;
-import org.junit.After;
 import org.junit.Assert;
-import utilities.PropertiesReader;
 import utilities.commonMethods;
 
 
